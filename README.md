@@ -2,7 +2,7 @@
 
 This repository contains code for numerically solving simple phase-field problems. The simulations were created to accompany an educational video on phase-field modeling.
 
-Video link: [https://www.youtube.com/@DrSimulate](https://www.youtube.com/@DrSimulate)
+Video link: [https://youtu.be/areJqeWc49E](https://youtu.be/areJqeWc49E)
 
 <p align="center">
   ⚠️ The simulations are intended for educational purposes only. Parts of the code were generated with the assistance of large language models. No convergence studies or rigorous validation have been performed. ⚠️
