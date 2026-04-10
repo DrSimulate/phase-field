@@ -1,0 +1,11 @@
+
+# ignore chache
+*__pycache__*
+
+# ignore virtual environment
+.venv/
+
+# ignore media
+
+
+
